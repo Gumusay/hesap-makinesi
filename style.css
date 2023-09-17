@@ -1,0 +1,48 @@
+.hesap{
+    margin: 0 auto;
+    height: auto;
+    width: 500px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+input{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.sonuc{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 95%;
+    word-wrap: break-word;
+    text-align: right;
+
+}
+.buttonlar{
+    text-align: center;
+    font-weight: bolder;
+
+}
+button{
+    width: 80px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: burlywood;
+    outline: none;
+}
+.temizle{
+    background-color: red;
+}
+.esittir{
+   background-color: aqua; 
+}
+
+.operator{
+    background-color: cadetblue;
+}
